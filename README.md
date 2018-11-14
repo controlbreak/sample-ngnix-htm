@@ -1,1 +1,1 @@
-# sample-ngnix-htm
+# sample-ngnix-html
